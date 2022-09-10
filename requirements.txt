@@ -1,0 +1,7 @@
+PyQt6==6.3.1
+pytube==12.1.0
+pip==22.2.2
+altgraph==0.17.2
+macholib==1.16
+setuptools==65.3.0
+pyinstaller==5.3
